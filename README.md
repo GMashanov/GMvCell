@@ -8,7 +8,7 @@ The program does not need installation – GMvCell24.exe and library files (borl
 
 Read GMvCell-Help.pdf for the instructions how to operate the model and save the results. Some predefined scripts(*.gms), which were used in the publication are included in this project. 
 
-Note: this is an object-based simulation model – it will need large RAM to simulate a virtual cell and its surrounding – 1 Gbyte per 10×20×5 µm3 (= 1000 m3) using voxels of 10 nm unit length or 125 Gbytes if we use 2 nm voxels. It performs millions of operations to simulate movements and interactions between thousands of molecules. Therefore, fast, multi-core PC will speed up the time needed to initialize cell volume and run the program.  
+Note: this is an object-based simulation model – it will need large RAM to simulate a virtual cell and its surrounding – 1 Gbyte per 10×20×5 µm3 (= 1000 µm3) using voxels of 10 nm unit length or 125 Gbytes if we use 2 nm voxels. It performs millions of operations to simulate movements and interactions between thousands of molecules. Therefore, fast, multi-core PC will speed up the time needed to initialize cell volume and run the program.  
 
 Licensed under the Apache License, Version 2.0 (the "License");
 
