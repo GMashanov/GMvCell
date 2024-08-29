@@ -4,7 +4,7 @@ This is standing alone computer program (GMvCell.exe – simulation of single mo
 
 It will run on a PC running 64bit Windows (7&10). It does not have any special requirements but will need enlarged RAM to model big cell volumes (see model description).
 
-The program does not need installation – GMvCell24.exe and library files (borlndmm.dll, cc64160mt.dll, rtl210.bpl, vcl210.bpl, vclimg210.bpl) should be copied to separate folder on a PC. Fast launch icon can be created on desktop and task bar manually. Image analysis software (GMimPro23.exe) can be copied into same folder to process and analyse sequences of images (*.gmv, *.gmG, *gmR) created by GMvCell (Note: GMimPro uses the same libraries as GMvCell). 
+The program does not need installation – GMvCell.exe and library files (borlndmm.dll, cc64160mt.dll, rtl210.bpl, vcl210.bpl, vclimg210.bpl) should be copied to separate folder on a PC. Fast launch icon can be created on desktop and task bar manually. Image analysis software (GMimPro23.exe) can be copied into same folder to process and analyse sequences of images (*.gmv, *.gmG, *gmR) created by GMvCell (Note: GMimPro uses the same libraries as GMvCell). 
 
 Read GMvCell-Help.pdf for the instructions how to operate the model and save the results. Some predefined scripts(*.gms), which were used in the publication are included in this project. 
 
